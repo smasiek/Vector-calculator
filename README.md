@@ -3,7 +3,7 @@
  
  
  Allows basic calculations like counting their length, geting their dot and vector product etc.
-With use of decorator one can convert 2D vector to 3D vector by adding another dimension.
+With use of decorator you can convert 2D vector to 3D vector by adding another dimension.
  
 #### Back-end: Java
 
